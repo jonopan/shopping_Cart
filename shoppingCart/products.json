@@ -1,0 +1,77 @@
+{
+  "status": "success",
+  "items": [
+    {
+      "id": 1,
+      "title": "Nike Air Zoom SuperRep",
+      "price": 250,
+      "image": "./images/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Nike Joyride Run Flyknit",
+      "price": 250,
+      "image": "./images/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nike React Miler",
+      "price": 190,
+      "image": "./images/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Nike Zoom Victory 5 XC",
+      "price": 160,
+      "image": "./images/9.jpg"
+    },
+    {
+      "id": 5,
+      "title": "FluidFlow Shoes",
+      "price": 120,
+      "image": "./images/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "UA TriBase™ Reign 2",
+      "price": 170,
+      "image": "./images/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "UA Project Rock 3",
+      "price": 200,
+      "image": "./images/10.jpg"
+    },
+    {
+      "id": 8,
+      "title": "UA DURAMO SL SHOES",
+      "price": 250,
+      "image": "./images/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Unisex UA Embiid One",
+      "price": 190,
+      "image": "./images/4.jpg"
+    },
+    {
+      "id": 10,
+      "title": "UA Charged Breathe TR 2+",
+      "price": 130,
+      "image": "./images/13.jpg"
+    },
+    {
+      "id": 11,
+      "title": "UA HOVR™ Havoc 3",
+      "price": 180,
+      "image": "./images/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "UA SC 3ZER0 III",
+      "price": 120,
+      "image": "./images/12.jpg"
+    }
+  ]
+}
